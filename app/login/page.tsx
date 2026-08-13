@@ -104,7 +104,7 @@ export default function Login() {
 
           <div className="pt-6 border-t border-white/5 mt-8">
             <p className="text-center text-gray-600 text-[10px] font-bold uppercase tracking-widest">
-              New to the platform? <Link href="/register" className="text-[#FF4D1C] hover:underline ml-2">Join now</Link>
+              Dont have an account?  <Link href="/register" className="text-[#FF4D1C] hover:underline ml-2">Join now</Link>
             </p>
           </div>
         </form>
